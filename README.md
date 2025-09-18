@@ -4,7 +4,7 @@
 **M365 IT-Consultant** specializing in modern workplace solutions and cloud infrastructure.
 
 ### 🛠️ Skills & Technologies
-- **Azure** | **Intune** | **Docker** | **Linux**
+- **Azure** | **Intune** | **Terraform** | **Docker** | **Linux**
 - Proficient in automating, deploying, and managing enterprise environments
 
 ### 🚀 What I’m Experimenting With

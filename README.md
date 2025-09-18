@@ -7,7 +7,7 @@
 - **Azure** | **Intune** | **Terraform** | **Docker** | **Linux**
 - Proficient in automating, deploying, and managing enterprise environments
 
-### 🚀 What I’m Experimenting With
+### 🔬 What I’m Experimenting With
 - Building a **Homelab** using Proxmox on decommissioned enterprise hardware
 - Constantly tinkering with infrastructure and automation
 - Enjoy crafting efficient, repeatable environments for learning and productivity
@@ -20,6 +20,3 @@
 
 ### 🌐 Personal Website
 Currently under construction — stay tuned!
-
----
-

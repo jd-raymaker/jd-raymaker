@@ -1,7 +1,7 @@
 # 👋 Oh hey there, I’m JayDee!
 
 ### 💼 Profession
-**M365 IT-Consultant** specializing in modern workplace solutions and cloud infrastructure.
+**IT-Consultant** specializing in modern workplace solutions and cloud infrastructure.
 
 ### 🛠️ Skills & Technologies
 - **Azure** | **Intune** | **Terraform** | **Docker** | **Linux**
@@ -9,7 +9,9 @@
 
 ### 🔬 What I’m Experimenting With
 - Building a **Homelab** using Proxmox on decommissioned enterprise hardware
+- Learning about self-hosting kubernetes with Talos Linux
 - Constantly tinkering with infrastructure and automation
+- **Obsessed** with redundancy and high availability (HA)
 - Enjoy crafting efficient, repeatable environments for learning and productivity
 
 ### 📂 Projects
